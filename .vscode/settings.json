@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 12,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "all",
+    "eslint.validate": [
+        "javascript", "vue"
+    ],
+    // "javascript.suggestionActions.enabled": false,
+    "eslint.alwaysShowStatus": true,
+
+    "json.maxItemsComputed": 5000,
+
+    "files.encoding": "utf8",
+
+}
